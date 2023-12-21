@@ -1,0 +1,13 @@
+.topic
+{
+    font-size: 120px;
+    font-weight: bolder;
+    font-family: 'Amatic SC', sans-serif;
+   
+}
+.main {
+    background: url(../imges/art-3561710_1280.jpg);
+    background-position:center;
+    background-size: cover;
+    height: 100vh;
+}
